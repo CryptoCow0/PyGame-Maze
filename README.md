@@ -1,4 +1,4 @@
 # PyGame-Maze
 Python Maze Game
 
-This is a simple maze game in which the controls change as you level up
+Takes a text file, parses it into a maze, and then creates a game regarding this maze with the controls changing as the user levels up.
