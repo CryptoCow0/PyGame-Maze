@@ -11,4 +11,11 @@ In the process of translating this code from Python to JavaScript, to turn it in
 
 ## Parsing
 
+> <img src="maze.txt" align="center"/>
+
+By taking this file everything that is an X will then be turned into a wall
+Everything that is a _ becomes the path
+the + is the final goal.
+
+This means that this template can be used to generate mazes so long as the conditions are met
 
