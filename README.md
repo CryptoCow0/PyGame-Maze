@@ -7,7 +7,7 @@ In the process of translating this code from Python to JavaScript, to turn it in
 
 ## Visuals
 
-> Maze Visual <img src="Images/icon.png" align="center"/>
+> Maze Visual <img src="Images/Maze.png" align="center"/>
 
 ## Parsing
 
