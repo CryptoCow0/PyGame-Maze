@@ -1,10 +1,6 @@
 # PyGame-Maze
-Python Maze Game
-
-Takes a text file, parses it into a maze, and then creates a game regarding this maze with the controls changing as the user levels up.
-
-In the process of translating this code from Python to JavaScript, to turn it into a browser extension.
-
+A fun maze with increasing difficulty as each level continues!
+See if you can beat all 3 levels!
 ## Visuals
 
 > <img src="Images/Game.PNG" align="center"/>
