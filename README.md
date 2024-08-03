@@ -11,7 +11,7 @@ In the process of translating this code from Python to JavaScript, to turn it in
 
 ## Parsing
 
-> <img src="maze.txt" align="center"/>
+> <img src="Maze.png" align="center"/>
 
 By taking this file everything that is an X will then be turned into a wall
 Everything that is a _ becomes the path
